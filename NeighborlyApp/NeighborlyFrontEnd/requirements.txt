@@ -1,0 +1,16 @@
+Werkzeug==0.16.1
+azure-functions
+certifi
+chardet
+click
+feedgen
+dominate
+Flask
+Flask-Bootstrap
+idna
+itsdangerous
+Jinja2
+MarkupSafe==2.0.1
+requests
+urllib3
+visitor
